@@ -6,3 +6,6 @@ But I don't know whether Github can do it.
 This is a first test.
 
 测试是否可以输入中文。
+
+test git status
+
