@@ -9,3 +9,4 @@ This is a first test.
 
 test git status
 
+test reset HEAD 
